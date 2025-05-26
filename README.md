@@ -47,7 +47,6 @@ modern-calculator/
 └── script.js        # JavaScript file with calculator logic and theme toggle functionality
 </pre>
 
-<h3>Contact</h3>
 <ul>
   <h2>👨‍💻 Author</h2>
 <p>🚀 <b>Aradhana Patra</b> | 🌍 GitHub: <a href="https://github.com/aradhana-56">GitHub</a> | 🔗 LinkedIn: <a href="https://www.linkedin.com/in/aradhana-patra-8694642b5">LinkedIn</a></p>
