@@ -3,7 +3,7 @@
 <h3>Description</h3>
 <p>
 This is a modern, GUI-based calculator built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. 
-It supports fundamental arithmetic operations along with additional mathematical functions like square root, square, and reciprocal. 
+It supports fundamental arithmetic operations. 
 The calculator features a toggleable light and dark theme for better user experience and visual comfort.
 </p>
 <p>
@@ -14,7 +14,6 @@ ensuring smooth and user-friendly interactions.
 <h3>Features</h3>
 <ul>
   <li>Basic arithmetic: Addition, Subtraction, Multiplication, Division</li>
-  <li>Advanced math functions: Square root, Square, Reciprocal</li>
   <li>Clear input and delete last character functionality</li>
   <li>Real-time display of entered expressions and calculated results</li>
   <li>Light and Dark theme toggle to switch UI themes dynamically</li>
