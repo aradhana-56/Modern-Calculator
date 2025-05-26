@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Calculator with Theme Toggle</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="calculator light">
+    <div class="theme-toggler" id="theme-toggler" title="Toggle Dark/Light Theme">🌓</div>
+    
+    <div class="display-screen" id="display"></div>
+    <div class="buttons">
+      <!-- Row 1 -->
+      <button class="btn-operator" id="clear">C</button>
+      <button class="btn-operator" id="backspace">&lt;</button>
+      <button class="btn-operator" id="(">(</button>
+      <button class="btn-operator" id=")">)</button>
+
+      <!-- Row 2 -->
+      <button class="btn-number" id="7">7</button>
+      <button class="btn-number" id="8">8</button>
+      <button class="btn-number" id="9">9</button>
+      <button class="btn-operator" id="/">÷</button>
+
+      <!-- Row 3 -->
+      <button class="btn-number" id="4">4</button>
+      <button class="btn-number" id="5">5</button>
+      <button class="btn-number" id="6">6</button>
+      <button class="btn-operator" id="*">×</button>
+
+      <!-- Row 4 -->
+      <button class="btn-number" id="1">1</button>
+      <button class="btn-number" id="2">2</button>
+      <button class="btn-number" id="3">3</button>
+      <button class="btn-operator" id="+">+</button>
+
+      <!-- Row 5 -->
+      <button class="btn-number" id=".">.</button>
+      <button class="btn-number" id="0">0</button>
+      <button class="btn-number" id="00">00</button>
+      <button class="btn-operator" id="-">-</button>
+
+      <!-- Row 6 (Equal button spans across all columns) -->
+      <button id="equal">=</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
